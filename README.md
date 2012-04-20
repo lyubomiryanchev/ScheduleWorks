@@ -1,0 +1,4 @@
+ScheduleWorks
+=============
+
+School timetable generator
